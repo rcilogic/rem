@@ -7,5 +7,5 @@ Rcilogic Enterprise Microservices
 ## Components
 
 ### Backend
-**[ADAuth](https://github.com/rcilogic/ADAuth)** [`c#`] - provides windows-authentication for specified services. Generates signed JWT with user's data
+**[ADAuth](https://github.com/rcilogic/ADAuth)** [`c#`,`ASP.NET Core 6.0`] - provides windows-authentication for specified services. Generates signed JWT with user's data
 
