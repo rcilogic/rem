@@ -2,7 +2,7 @@
 Rcilogic Enterprise Microservices
 
 ## Description
-**REM** - is a boundle of microservices, based on different technologies and provides some useful tools in Enteprise networks (commonly based on `MS Active Directory`)
+**REM** - is a boundle of microservices, based on different technologies and provides some useful tools for Enteprise networks (commonly based on `MS Active Directory`)
 
 ## Components
 
