@@ -23,11 +23,11 @@ Rcilogic Enterprise Microservices
 ### Scheme
 **Routes**
 ```
-User ---> (https:443) nginx: rem.example.com/...
-                                                /* ---> (http:80) REMFrontend 
-                                                /auth/ ---> (http:8081) REMAuth
-                                                /api/connectiontracker/ ---> (http:8082) REMConnectionTracker
-User ---> (https:443) ADAuth: adauth.example.com/
+Browser ---> (https:443) nginx: rem.example.com/...
+                                                  /* ---> (http:80) REMFrontend 
+                                                  /auth/ ---> (http:8081) REMAuth
+                                                  /api/connectiontracker/ ---> (http:8082) REMConnectionTracker
+Browser ---> (https:443) ADAuth: adauth.example.com/
                                                    
 ```
 
