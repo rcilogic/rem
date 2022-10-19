@@ -33,7 +33,7 @@ User ---> (https:443) ADAuth: adauth.example.com/
 
 **Windows authentication**
 ```
-**Windows authentication button**
+Windows authentication button
 redirect (GET): rem.example.com/auth/adauth (nginx ---> REMAuth)
 redirect (POST): adauth.example.com/ (ADAuth)
 redirect (POST): rem.example.com/auth/adauth (nginx ---> REMAuth)
